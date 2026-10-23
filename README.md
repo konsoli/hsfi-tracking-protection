@@ -27,8 +27,8 @@ Siksi tee myös kohta 1 alla. Se on ilmainen ja kattaa sen, mihin estolista ei y
 Listojen osoitteet:
 
 ```
-https://raw.githubusercontent.com/<github-käyttäjä>/hsfi-tracking-protection/main/hs-blocklist.txt
-https://raw.githubusercontent.com/<github-käyttäjä>/hsfi-tracking-protection/main/hs-ublock.txt
+https://raw.githubusercontent.com/konsoli/hsfi-tracking-protection/main/hs-blocklist.txt
+https://raw.githubusercontent.com/konsoli/hsfi-tracking-protection/main/hs-ublock.txt
 ```
 
 ## Käyttöönotto
