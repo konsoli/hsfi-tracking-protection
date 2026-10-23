@@ -1,0 +1,6 @@
+! Title: HS Tracking Protector – uBlock Origin -lisä
+! Description: Vain selaimeen. Stripen petostorjuntasignaalit (artikkelin URL ja otsikko jokaiselta HS-sivulta). Voi estää maksamisen: kytke pois tilausta muuttaessa. Estää signaalit kaikilla sivustoilla, ei vain hs.fi:ssä.
+! Version: 2026-10-23
+!
+||m.stripe.com^
+||m.stripe.network^

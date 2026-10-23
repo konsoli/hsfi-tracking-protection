@@ -1,0 +1,28 @@
+! Title: HS Tracking Protector
+! Description: Helsingin Sanomien (hs.fi, HS-sovellus) seuranta- ja mainosdomainit. Pi-hole (FTL v5.22+), uBlock Origin, Brave.
+! Version: 2026-10-23
+! Lähde: pihole-lokit 23.10.2026 + Sanoman evästekäytännöt
+!
+! Sanoman oma seuranta: Google Tag Managerin first-party-proxy (cdn./cdx.pongo.hs.fi)
+||pongo.hs.fi^
+!
+! AudienceProject (yleisömittaus)
+||userreport.com^
+||dnt-userreport.com^
+!
+! Tag managerit (lataavat mainos- ja seurantakumppanit)
+||assets.adobedtm.com^
+||www.googletagmanager.com^
+!
+! A/B-testaus
+||sanoma.cdn-v3.conductrics.com^
+!
+! Sovellusalustan analytiikka
+||data.richie.app^
+!
+! Google Ad Manager
+||googleads.g.doubleclick.net^
+||pubads.g.doubleclick.net^
+||securepubads.g.doubleclick.net^
+||tpc.googlesyndication.com^
+||safeframe.googlesyndication.com^

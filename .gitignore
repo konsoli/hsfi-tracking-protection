@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# ...except these
+!.gitignore
+!README.md
+!hs-blocklist.txt
+!hs-ublock.txt
