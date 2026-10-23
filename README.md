@@ -1,4 +1,4 @@
-# HS Tracking Protector
+# hs.fi tracking protector
 
 Estolista Helsingin Sanomien (hs.fi ja HS-sovellus) seuranta- ja mainosdomaineille. Toimii Pi-holessa, uBlock Originissa ja Bravessa.
 
